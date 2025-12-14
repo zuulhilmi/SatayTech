@@ -109,7 +109,7 @@ VALUES
     (
         'Yong The Final Boss',
         'admin@sys.com',
-        '$2y$10$wR.c/F7y6CjUjZ2hT.gYUO.Hn.kG.8y.uK.mJ.vF.dC.xS.z.e',
+        '$2a$12$mOfJjFxDPc.I4llrv/FO3elTEJ7sBYdukjHL.onUFYvUZorRXWB06',
         'admin',
         '012-3456789'
     );
@@ -121,7 +121,7 @@ VALUES
     (
         'Jerry Anak My',
         'jeremy@gmail.com',
-        '$2y$10$8x.d/E8z7DkVkZ3iU.hXVP.In.lH.9z.vL.nK.wG.eD.yT.a.f',
+        '$2a$12$H3uimer1oUAORAmxNqE.1.pcdwGs0cz2YSTY5yiHcZqWDy0f1nMri',
         'member',
         '019-8765432'
     );
