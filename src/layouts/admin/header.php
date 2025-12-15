@@ -15,15 +15,15 @@ require_once __DIR__ . '/../../includes/auth_admin.php';
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="admin_dashboard.php">
-        <img src="assets/sataytech_logo.png" width="30" height="30" alt="Logo"> SatayTech
+    <a class="navbar-brand" href="dashboard.php">
+        <img src="../assets/sataytech_logo.png" width="30" height="30" alt="Logo"> SatayTech
     </a>
     
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
-        <li class="nav-item"><a class="nav-link" href="admin_dashboard.php">Dashboard</a></li>
-        <li class="nav-item"><a class="nav-link" href="admin_products.php">Inventory</a></li>
-        <li class="nav-item"><a class="nav-link" href="admin_add_product.php">Add Stock</a></li>
+        <li class="nav-item"><a class="nav-link" href="dashboard.php">Dashboard</a></li>
+        <li class="nav-item"><a class="nav-link" href="products.php">Inventory</a></li>
+        <li class="nav-item"><a class="nav-link" href="add_product.php">Add Stock</a></li>
       </ul>
       <ul class="navbar-nav ms-auto">
          <li class="nav-item"><a class="nav-link btn btn-danger text-white btn-sm" href="logout.php">Logout</a></li>
@@ -31,4 +31,5 @@ require_once __DIR__ . '/../../includes/auth_admin.php';
     </div>
   </div>
 </nav>
-<div class="container mt-4">
+
+<main class="container mt-4">
