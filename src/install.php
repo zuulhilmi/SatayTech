@@ -1,8 +1,8 @@
 <?php
 // Settings
 $host = 'localhost';
-$username = 'admin';
-$password = 'kanni123';
+$username = 'root';
+$password = '';
 $dbname = 'satay-tech-db';
 
 try {
